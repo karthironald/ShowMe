@@ -1,0 +1,6 @@
+framework module Pods_ShowMe_ShowMeUITests {
+  umbrella header "Pods-ShowMe-ShowMeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

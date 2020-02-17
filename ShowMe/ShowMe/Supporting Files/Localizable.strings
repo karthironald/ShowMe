@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  ShowMe
+
+  Created by Karthick Selvaraj on 12/01/20.
+  Copyright © 2020 Demo. All rights reserved.
+*/
+
+
+// Segment
+"kMovieSearchBarPlaceholder" = "Enter movie name..";
+"kMovieDefaultSearchText" = "Avengers";
+"kShowSearchBarPlaceholder" = "Enter show name..";
+"kShowDefaultSearchText" = "Game";
+
+// Error messages
+"kInternetOfflineMessage" = "Internet connection seems to be offline. Please check your connection and try again.";
+"KNoSearchResults" = "No results found. Please try with different search.";
+"kCommonErrorMessage" = "Something went wrong. Please try again later.";
+
+// Alert
+"kErrorAlertTitle" = "Oops!";
+"kOkayButtonTitle" = "Okay";
